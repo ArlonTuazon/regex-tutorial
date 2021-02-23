@@ -19,6 +19,7 @@ This tutorial will explain the features of Regex and how we can take advantage o
 - [Boundaries](#boundaries)
 - [Back-references](#back-references)
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
+- [Author](#author)
 
 ## Regex Components
 A regex is a string of text that allows you to create patterns that help match, locate, and manage text. 
