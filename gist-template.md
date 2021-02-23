@@ -1,6 +1,6 @@
 # Regex Tutorial
 
-A regular expression (shortened as regex or regexp; also referred to as rational expression) is a sequence of characters that define a search pattern. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation.
+A regular expression (shortened as regex or regexp; also referred to as rational expression) are literal strings or a sequence of characters that define a search pattern. It is a pattern used to match texts.
 
 ## Summary
 
@@ -25,7 +25,7 @@ This tutorial will explain the features of Regex and how we can take advantage o
 A regex is a string of text that allows you to create patterns that help match, locate, and manage text. 
 
 ### Anchors
-In regex, anchors are not used to match characters, they match a position i.e. before, after, or between characters. To match start and end of line, we use following anchors:
+In regex, anchors are not used to match characters, they match a position before, after, or between characters. To match start and end of line, we use following anchors:
 
 Caret (^) matches the position before the first character in the string.
 Dollar ($) matches the position right after the last character in the string.
